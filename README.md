@@ -1,9 +1,8 @@
 <h1 align="center">🧑‍💻 Olá! Eu sou o João Leonardo</h1>
-<h3 align="center">💻 Desenvolvedor Front-end | Focado em Soluções Práticas e Eficientes</h3>
+<h3 align="center">Desenvolvedor Front-End | React, JavaScript, HTML & CSS</h3>
 
 <p align="center">
-Apaixonado por tecnologia, especializado em transformar ideias em projetos funcionais e intuitivos.  
-Sempre em busca de novos desafios e aprendizados contínuos.
+Apaixonado por tecnologia e especializado em transformar ideias em interfaces web interativas e intuitivas.
 </p>
 
 ---
