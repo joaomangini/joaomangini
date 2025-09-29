@@ -56,7 +56,7 @@ Um sistema web completo para gerenciar ativos (Impressoras e Toners).
 ✔ Persistência de dados com LocalStorage  
 ✔ Tema Escuro, filtros e notificações  
 
-🔗 [Acesse o repositório](https://github.com/joaomangini/NOME_DO_REPOSITORIO_DO_INVENTARIO)
+🔗 [Acesse o repositório](https://github.com/joaomangini/Controle-de-Toner-2.0.git)
 
 ---
 
