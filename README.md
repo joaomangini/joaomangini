@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o João Leonardo</h1>
+<h1 align="center">🧑‍💻 Olá! Eu sou o João Leonardo</h1>
 <h3 align="center">💻 Desenvolvedor Front-end | Focado em Soluções Práticas e Eficientes</h3>
 
 <p align="center">
