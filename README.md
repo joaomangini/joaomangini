@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | React • JavaScript • HTML • CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!; Desenvolvedor+Front-End+apaixonado+por+tecnologia.;Transformo+ideias+em+interfaces+intuitivas."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-End+apaixonado+por+tecnologia.;Transformo+ideias+em+interfaces+intuitivas."/>
 </p>
 
 ---
