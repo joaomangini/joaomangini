@@ -1,70 +1,72 @@
-<!-- PERFIL ANIMADO E MODERNO -->
 <div align="center">
 
-# ⚡ João Leonardo  
-### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS  
+# ✨ João Leonardo
+### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2800&color=00FFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+João+Leonardo!;Apaixonado+por+tecnologia+e+inovação.;Transformo+ideias+em+interfaces+interativas.;Sempre+aprendendo+e+evoluindo+no+Front-End." />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=00FFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+João+Leonardo!;Apaixonado+por+tecnologia+e+inovação.;Transformo+ideias+em+interfaces+interativas.;Sempre+aprendendo+e+evoluindo+no+Front-End." />
 
 </div>
 
-## 🧭 Sobre Mim  
+---
 
-💡 Sou um desenvolvedor apaixonado por criar **interfaces elegantes e funcionais**.  
-🚀 Busco unir design e performance para entregar **experiências modernas** ao usuário.  
-📚 Atualmente estudando **React Avançado** e integração de APIs com JavaScript.  
-💬 Aberto a colaborações, freelas e novos desafios.
+## 🧭 Sobre Mim
+💡 Sou um desenvolvedor focado em construir **soluções funcionais, rápidas e elegantes**.
+<br>🎨 Adoro transformar **ideias complexas em experiências simples e intuitivas**.
+<br>📚 Atualmente estudando **JavaScript Avançado e React Hooks**, buscando dominar a lógica e performance do front-end.
+<br>⚡ Sempre explorando novas tecnologias para criar aplicações modernas e eficientes.
 
 ---
 
-## 🧰 Stack Tecnológica  
-
-| Categoria | Tecnologias |
-|:--|:--|
-| 💻 **Linguagens** | <img src="https://skillicons.dev/icons?i=js,html,css,python" /> |
-| ⚛️ **Frameworks & Libs** | <img src="https://skillicons.dev/icons?i=react,nodejs" /> |
-| 🗄️ **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> |
-| 🧩 **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
-
----
-
-## 🌟 Projetos em Destaque  
-
-### 🚀 [Inventário de TI – Controle de Toners](https://github.com/joaomangini/Controle-de-Toner-2.0.git)  
-Um sistema web completo para gerenciar ativos de TI.  
-✅ CRUD completo  
-✅ Persistência com LocalStorage  
-✅ Tema escuro, filtros e notificações  
-
-🛠 **Tecnologias:** HTML • CSS • JavaScript  
+## 🧰 Stack Tecnológica
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs&perline=6" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma&perline=6" />
+  </a>
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub  
+## 🌟 Projetos em Destaque
+> ### 🚀 [Inventário de TI – Controle de Toners](https://github.com/joaomangini/Controle-de-Toner-2.0.git)
+> *Um sistema web completo para gerenciar ativos de TI.*
+>
+> ✅ CRUD completo
+> <br>✅ Persistência com LocalStorage
+> <br>✅ Tema escuro, filtros e notificações
+>
+> <br>
+>
+> 🛠 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
+---
+
+## 🏃 Minha Atividade Recente no GitHub
+---
+
+## 📊 Estatísticas GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=joaomangini&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
-</p>
-
-<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomangini&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF"/>
 </p>
 
----
-
-## 🏆 Conquistas  
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaomangini&theme=algolia&no-frame=true&column=5&margin-w=10&margin-h=10"/>
+  <img src="https://github.com/joaomangini/joaomangini/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 📬 Contatos  
+<details align="center">
+  <summary>🏆 Minhas Conquistas no GitHub</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomangini&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+</details>
 
+---
+
+## 📬 Contatos
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-leonardo-948392207/">
     <img src="https://img.shields.io/badge/-João%20Leonardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -80,15 +82,13 @@ Um sistema web completo para gerenciar ativos de TI.
 ---
 
 <div align="center">
-  
-✨ Obrigado por visitar! ✨  
+
+✨ Obrigado por visitar! ✨
+<br>
 💬 Sempre aberto a colaborações e novos desafios!
 
-<!-- 🔢 CONTADOR DE VISITAS ANIMADO -->
-<p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joaomangini.profile.visitor&color=00FFFF&style=for-the-badge&logo=github&text=VISITAS"/>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=joaomangini&color=00FFFF&style=flat-square&label=👁+Visualizações+do+perfil"/>
 
 </div>
-
----
