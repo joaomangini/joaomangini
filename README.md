@@ -1,10 +1,10 @@
 <!-- PERFIL ANIMADO E MODERNO -->
 <div align="center">
 
-# ⚡ João Leonardo  
+# ✨ João Leonardo  
 ### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2800&color=00FFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+João+Leonardo!;Apaixonado+por+tecnologia+e+inovação.;Transformo+ideias+em+interfaces+interativas.;Sempre+aprendendo+e+evoluindo+no+Front-End." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=00FFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+João+Leonardo!;Apaixonado+por+tecnologia+e+inovação.;Transformo+ideias+em+interfaces+interativas.;Sempre+aprendendo+e+evoluindo+no+Front-End." />
 
 ---
 
@@ -12,10 +12,10 @@
 
 ## 🧭 Sobre Mim  
 
-💡 Sou um desenvolvedor apaixonado por criar **interfaces elegantes e funcionais**.  
-🚀 Busco unir design e performance para entregar **experiências modernas** ao usuário.  
-📚 Atualmente estudando **React Avançado** e integração de APIs com JavaScript.  
-💬 Aberto a colaborações, freelas e novos desafios.
+💡 Sou um desenvolvedor focado em construir **soluções funcionais, rápidas e elegantes**.  
+🎨 Adoro transformar **ideias complexas em experiências simples e intuitivas**.  
+📚 Atualmente estudando **JavaScript Avançado e React Hooks**, buscando dominar a lógica e performance do front-end.  
+⚡ Sempre explorando novas tecnologias para criar aplicações modernas e eficientes.
 
 ---
 
@@ -84,11 +84,6 @@ Um sistema web completo para gerenciar ativos de TI.
 ✨ Obrigado por visitar! ✨  
 💬 Sempre aberto a colaborações e novos desafios!
 
-<!-- 🔢 CONTADOR DE VISITAS ANIMADO -->
-<p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joaomangini.profile.visitor&color=00FFFF&style=for-the-badge&logo=github&text=VISITAS"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=joaomangini&color=00FFFF&style=flat-square&label=👁+Visualizações+do+perfil"/>
 
 </div>
-
----
