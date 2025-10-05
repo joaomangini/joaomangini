@@ -1,4 +1,4 @@
-name: Generate Snake Animation 🐍
+name: Generate Colored Snake Animation 🐍
 
 on:
   schedule:
@@ -6,22 +6,26 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # se o seu branch principal for "master", altere aqui
+      - main  # altere para "master" se seu branch principal for assim
 
 jobs:
   build:
-    name: Build Snake Animation
+    name: Build Colored Snake Animation
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar animação Snake
+      - name: Gerar animação Snake personalizada
         uses: Platane/snk@v3
         with:
           github_user_name: joaomangini
           outputs: dist/github-contribution-grid-snake.svg
+          # Cores personalizadas da cobra
+          color: "#00FFFF"        # Cor do corpo da cobra
+          back_color: "#0D1117"   # Fundo do grid (combina com tema escuro do seu README)
+          point: "#007FFF"        # Cor dos pontos das contribuições
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
