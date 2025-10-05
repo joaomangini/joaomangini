@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/joaomangini/joaomangini/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/joaomangini/joaomangini/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
