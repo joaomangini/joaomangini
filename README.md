@@ -68,14 +68,10 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 
 ---
 
-## 📈 Atividade Recente
-
----
-
-## 🐍 Minhas Contribuições
+## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaomangini/joaomangini/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomangini&bg_color=0D1117&color=e6eef6&line=00FFFF&point=00FFFF&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
 </p>
 
 ---
