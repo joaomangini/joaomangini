@@ -49,7 +49,7 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
         <p>Descrição breve do seu segundo projeto principal. Destaque o que ele faz e qual problema resolve.</p>
         <p><strong>Tecnologias:</strong> <code>React</code>, <code>Styled-Components</code>, etc.</p>
         <a href="(https://github.com/joaomangini/Portifolio)" target="_blank">
-          <img src="[https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white](https://joaomangini.github.io/Portifolio/)"/>
+          <img src="[https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white (https://joaomangini.github.io/Portifolio/)"/>
         </a>
       </div>
     </td>
