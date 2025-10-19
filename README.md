@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[#]" width="120" height="120" style="border-radius: 50%; border: 2px solid #00FFFF;" />
+<img src="https://github.com/joaomangini.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #00FFFF;" alt="Foto de perfil de João Leonardo" />
 
 # 👋 Olá! Eu sou **João Leonardo**
 ### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS
@@ -24,8 +24,7 @@
 Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e com design elegante**.  
 Meu foco é transformar ideias complexas em **experiências de usuário simples e intuitivas**.
 
-- 🔭 Atualmente aprimorando minhas habilidades em **JavaScript Avançado e React Hooks**  
-- 🌱 Buscando dominar performance e arquitetura de componentes no ecossistema Front-End  
+- 🔭 Atualmente aprimorando minhas habilidades em **JavaScript Avançado e React Hooks** - 🌱 Buscando dominar performance e arquitetura de componentes no ecossistema Front-End  
 - 💬 Aberto a colaborações, novas oportunidades e desafios!  
 - 🧩 Experiência sólida em **infraestrutura de TI e automação hospitalar**
 
@@ -74,8 +73,10 @@ Meu foco é transformar ideias complexas em **experiências de usuário simples 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=joaomangini&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="Estatísticas de João Leonardo no GitHub"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=joaomangini&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Sequência de contribuições de João Leonardo"/>
+  <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomangini&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Linguagens mais usadas por João Leonardo"/>
 </p>
 
 ---
@@ -97,7 +98,7 @@ Meu foco é transformar ideias complexas em **experiências de usuário simples 
 ## 🏆 Conquistas no GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaomangini&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomangini&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Troféus do GitHub de João Leonardo"/>
 </p>
 
 ---
