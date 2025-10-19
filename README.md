@@ -1,19 +1,52 @@
 <div align="center">
-  <h1>João Leonardo</h1>
-  <h3>Desenvolvedor Front-End | React • JavaScript • HTML • CSS</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=00FFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+João+Leonardo!;Apaixonado+por+tecnologia+e+inovação.;Transformo+ideias+em+interfaces+interativas.;Sempre+aprendendo+e+evoluindo+no+Front-End." />
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" height="120" style="border-radius: 50%; border: 2px solid #00FFFF;" />
+
+# 👋 Olá! Eu sou **João Leonardo**
+### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=00FFFF&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+interfaces+interativas.;Apaixonado+por+tecnologia+e+inovação.;Sempre+aprendendo+e+evoluindo+no+Front-End.)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Foco-Front%20End-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-React%20Hooks-00FFFF?style=for-the-badge&logo=react" />
+</p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e com design elegante**. Meu foco é transformar ideias complexas em **experiências de usuário simples e intuitivas**.
+Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e com design elegante**.  
+Meu foco é transformar ideias complexas em **experiências de usuário simples e intuitivas**.
 
-- 🔭 Atualmente estou aprimorando minhas habilidades em **JavaScript Avançado e React Hooks**.
-- 🌱 Buscando dominar a lógica de componentes e a performance no ecossistema Front-End.
-- 💬 Aberto a colaborações, novas oportunidades e desafios!
+- 🔭 Atualmente aprimorando minhas habilidades em **JavaScript Avançado e React Hooks**  
+- 🌱 Buscando dominar performance e arquitetura de componentes no ecossistema Front-End  
+- 💬 Aberto a colaborações, novas oportunidades e desafios!  
+- 🧩 Experiência sólida em **infraestrutura de TI e automação hospitalar**
+
+---
+
+## 🧠 Curiosidades
+
+- ☕ Café + Código = Combinação perfeita  
+- 🧑‍🏫 Gosto de ensinar e compartilhar o que aprendo  
+- 🧩 Adoro resolver problemas com lógica e automação  
+- 🎮 Curto jogos de estratégia e tecnologia retro  
+
+---
+
+## 💼 Experiência Profissional
+
+- **Hospital Regional** — Técnico de Informática (2024–Atual)  
+  Automação de processos internos, manutenção de infraestrutura e desenvolvimento de sistemas.  
+
+- **Exército Brasileiro** — Técnico de TI (2015–2023)  
+  Gerenciamento de redes, servidores e suporte técnico em ambiente de alta criticidade.
 
 ---
 
@@ -31,35 +64,10 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Inventário de TI – Controle de Toners</h3>
-      <div align="center">
-        <p>Um sistema web completo para gerenciar ativos de TI, com funcionalidades de CRUD, filtros, tema escuro e notificações, utilizando persistência de dados no LocalStorage.</p>
-        <p><strong>Tecnologias:</strong> <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></p>
-        <a href="https://github.com/joaomangini/Controle-de-Toner-2.0.git" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Portfólio Pessoal (Este perfil!)</h3>
-      <div align="center">
-        <p>Meu portfólio pessoal e profissional, criado para demonstrar meus projetos e habilidades (você pode ver a demo clicando abaixo).</p>
-        <p><strong>Tecnologias:</strong> <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></p>
-        
-        <a href="https://github.com/joaomangini/Portifolio" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        
-        <a href="https://joaomangini.github.io/Portifolio/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Demo-2b7cff?style=for-the-badge&logo=githubpages&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| [**Inventário de TI – Controle de Toners**](https://github.com/joaomangini/Controle-de-Toner-2.0) | Sistema completo com CRUD, tema escuro e persistência local. | HTML • CSS • JS |
+| [**Portfólio Pessoal**](https://joaomangini.github.io/Portifolio/) | Meu portfólio profissional, com animações, modo escuro e geração de PDF. | HTML • CSS • JS |
 
 ---
 
@@ -68,7 +76,6 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=joaomangini&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomangini&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF"/>
 </p>
 
 ---
@@ -81,11 +88,17 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 
 ---
 
-<details align="center">
-  <summary>🏆 Conquistas no GitHub</summary>
-  <br>
+## 🐍 Snake Animation
+
+![snake gif](https://github.com/joaomangini/joaomangini/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 Conquistas no GitHub
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaomangini&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-</details>
+</p>
 
 ---
 
@@ -106,6 +119,7 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 ---
 
 <div align="center">
-  <p>✨ Obrigado pela visita! ✨</p>
   <img src="https://komarev.com/ghpvc/?username=joaomangini&color=00FFFF&style=flat-square&label=👁+Visualizações+do+perfil"/>
+  <br><br>
+  <p>✨ Feito com 💙 e muito café por <strong>João Leonardo</strong> ✨</p>
 </div>
