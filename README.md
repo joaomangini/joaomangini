@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://github.com/settings/profile)" width="120" height="120" style="border-radius: 50%; border: 2px solid #00FFFF;" />
+<img src="[#]" width="120" height="120" style="border-radius: 50%; border: 2px solid #00FFFF;" />
 
 # 👋 Olá! Eu sou **João Leonardo**
 ### 🚀 Desenvolvedor Front-End | React • JavaScript • HTML • CSS
