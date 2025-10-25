@@ -121,9 +121,7 @@ Meu foco é transformar ideias complexas em **experiências de usuário simples 
 
 ---
 
-## 🐍 Snake Animation
 
-![snake gif](https://github.com/joaomangini/joaomangini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
