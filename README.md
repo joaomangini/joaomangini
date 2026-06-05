@@ -70,9 +70,9 @@ Sou um desenvolvedor apaixonado por criar **soluções funcionais, rápidas e co
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
+| [**🏥 CentralTI — Inventário & Monitoramento Hospitalar**](https://joaomangini.github.io/centralti-vitrine/) | Plataforma desktop que unifica inventário, **monitoramento ao vivo** (VNC + telemetria), impressoras **SNMP**, integração **WhatsApp** e relatórios em Excel. | [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)]() [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]() |
 | [**Inventário de TI – Controle de Toners**](https://github.com/joaomangini/Controle-de-Toner-2.0) | Sistema completo com CRUD, tema escuro e persistência local. | [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)]() |
 | [**Portfólio Pessoal**](https://joaomangini.github.io/Portifolio/) | Meu portfólio profissional, com animações, modo escuro e geração de PDF. | [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)]() |
-| 🚧 **Inventário Hospitalar** *(em desenvolvimento)* | Sistema para controle de equipamentos e insumos de TI em ambiente hospitalar. | [![React](https://img.shields.io/badge/React-00FFFF?logo=react&logoColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]() [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)]() |
 
 ---
 
