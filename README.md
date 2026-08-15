@@ -81,10 +81,10 @@ Atuo há anos com **infraestrutura de TI, redes e suporte**, e levo essa experi�
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" alt="Estatísticas do GitHub de João Leonardo Mangini"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomangini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" alt="Estatísticas do GitHub de João Leonardo Mangini"/>
   <img height="160em" src="https://streak-stats.demolab.com?user=joaomangini&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Sequência de contribuições de João Leonardo Mangini"/>
   <br>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaomangini&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Linguagens mais usadas por João Leonardo Mangini"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomangini&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Linguagens mais usadas por João Leonardo Mangini"/>
 </p>
 
 ---
